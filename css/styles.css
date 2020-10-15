@@ -1,0 +1,38 @@
+h3{
+  color:#006a71;
+}
+
+body{
+
+}
+
+.purpleline{
+  background-color: purple;
+  image-align: left;
+  width: 50%
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  border-radius: 55%;
+}
+
+img.2 {
+  border-radius: 8px;
+}
+
+label{
+  font-weight: bold;
+}
+
+hr{
+  background-color: white;
+  border-style: none;
+  width: 50%;
+  height: 5px;
+}
